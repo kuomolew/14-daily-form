@@ -70,12 +70,12 @@ form {
     background-color: #f0f0f0;
     border: none;
     margin-bottom: 15px;
-    padding-left: 15px;
+    
 }
 
 .form-content ::placeholder {
     color: #7a7b7f;
-    
+    padding-left: 15px;
 }
 
 .form-content input[type="text"] {
